@@ -1,0 +1,9 @@
+{
+  "name": "@gildersleeveellington/blockchain-simple",
+  "version": "1.0.0",
+  "description": "blockchain demo",
+  "main": "index.js",
+  "author": "@gildersleeveellington",
+  "repository": "https://github.com/GildersleeveEllington/blockchaindemo.git",
+  "license": "ISC"
+}
